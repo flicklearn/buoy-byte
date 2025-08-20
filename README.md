@@ -5,16 +5,12 @@ Buoy Byte is a fun, DIY wave sensor that measures water motion using two Micro:b
 All wave movements are captured in real-time and can be logged through the serial port for experiments, visualization, or learning.
 
 Key Features:
+✅ Fully DIY wave measurement using only Micro:bit and built-in accelerometer ⚡
+✅ No extra electronics required
+✅ Buoy can be made from any plastic bottle + foam for floatation 🍼🟢
+💡 Shore receiver can be raised on a stick to increase wireless range 🌴
 
-Fully DIY wave measurement using only Micro:bit and built-in accelerometer ⚡
-
-No extra electronics required
-
-Buoy can be made from any plastic bottle + foam for floatation 🍼🟢
-
-Shore receiver can be raised on a stick to increase wireless range 🌴
-
-Real-time wave data logging via serial port 🖥️
+📊📈🗂️💾 Real-time wave data logging via serial port 🖥️
 
 Perfect for STEM projects, hobbyist experiments, and educational demos 🎓
 
