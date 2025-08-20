@@ -1,5 +1,8 @@
 **🌊 Buoy Byte – DIY Micro:bit Wave Sensor for Water Motion**
 
+🔴🎬 See it in action: 📺 [DIY Ocean Wave Sensor](https://www.youtube.com/shorts/v-YjcOxcESM)
+
+
 _Buoy Byte is a fun, DIY wave sensor that measures water motion using two Micro:bit boards and the built-in accelerometer—no extra sensors needed! Just grab any plastic bottle 🍼, add some foam for buoyancy 🟢, and place a Micro:bit inside. On shore, the second Micro:bit receives the wave data wirelessly 📡. For better range, mount the shore Micro:bit on a stick above water level 🌴._
 
 All wave movements are captured in real-time and can be logged through the serial port for experiments, visualization, or learning.
@@ -24,6 +27,3 @@ Use Cases:
 Track small-scale water motion in sea, ocean, ponds, lakes, or pools..
 Hands-on learning of accelerometers and wireless communication
 Collect wave data for science projects or classroom experiments
-
-
-📺 See it in action: [YouTube Demo](https://www.youtube.com/shorts/v-YjcOxcESM)
