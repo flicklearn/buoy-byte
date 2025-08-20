@@ -20,11 +20,8 @@ Perfect for STEM projects, hobbyist experiments, and educational demos 🎓
 
 
 Use Cases:
-
-Track small-scale water motion in ponds, lakes, or pools
-
+Track small-scale water motion in sea, ocean, ponds, lakes, or pools..
 Hands-on learning of accelerometers and wireless communication
-
 Collect wave data for science projects or classroom experiments
 
 
